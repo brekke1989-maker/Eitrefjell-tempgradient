@@ -1,1 +1,6 @@
-{"name": "Termikk App", "short_name": "Termikk", "start_url": "./", "display": "standalone", "background_color": "#ffffff"}
+{
+  "name": "Termikk Temp App",
+  "short_name": "Termikk",
+  "start_url": "/",
+  "display": "standalone"
+}
