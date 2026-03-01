@@ -1,6 +1,0 @@
-body { font-family: Arial; margin: 20px; }
-button { padding: 15px; font-size: 20px; width: 100%; margin-bottom: 20px; }
-pre { padding: 12px; white-space: pre-wrap; border-radius: 8px; font-size: 18px; }
-.good { background: #d8ffd8; border-left: 5px solid #3da43d; }
-.medium { background: #fff4c2; border-left: 5px solid #d1b000; }
-.bad { background: #ffd4d4; border-left: 5px solid #c43737; }
